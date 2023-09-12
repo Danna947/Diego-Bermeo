@@ -73,7 +73,6 @@ text-decoration: none;
 .menu-list ul li a:hover {
 cursor: pointer;
 color: #595959;
-font-size: 1.2em;
 transition: all 600ms;
 }
 .container {
@@ -268,7 +267,7 @@ grid-template-rows:    500px;
 gap: 10px;
 top: 90px;
 height: 100vh;
-background-image: url(/images/desktop-2.jpeg);
+background-image: url(/images/mockups-1.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 }
